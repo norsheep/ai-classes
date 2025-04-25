@@ -1,0 +1,8 @@
+the number of 1-bits in current windows:
+   508
+the number of 1-bits in the last 500 and 200 bits of the stream
+   220
+   76
+edge cases:
+   1208
+   0

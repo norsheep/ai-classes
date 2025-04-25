@@ -1,0 +1,25 @@
+true counts: 39768
+
+group: 1   hash: 1
+262144
+
+group: 1   hash: 5
+32768
+
+group: 2   hash: 1
+65536
+
+group: 2   hash: 5
+35119
+
+group: 3   hash: 5
+32768
+
+group: 3   hash: 7
+44102
+
+group: 3   hash: 9
+38224
+
+group: 4   hash: 4
+38967
