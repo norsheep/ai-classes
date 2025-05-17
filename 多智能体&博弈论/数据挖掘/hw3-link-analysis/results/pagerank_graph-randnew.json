@@ -1,0 +1,46 @@
+{
+    "top_k": [
+        {
+            "node": 276,
+            "pagerank": 0.002298
+        },
+        {
+            "node": 243,
+            "pagerank": 0.002231
+        },
+        {
+            "node": 27,
+            "pagerank": 0.002215
+        },
+        {
+            "node": 632,
+            "pagerank": 0.002191
+        },
+        {
+            "node": 497,
+            "pagerank": 0.002179
+        }
+    ],
+    "bottom_k": [
+        {
+            "node": 494,
+            "pagerank": 0.000556
+        },
+        {
+            "node": 110,
+            "pagerank": 0.000558
+        },
+        {
+            "node": 423,
+            "pagerank": 0.000572
+        },
+        {
+            "node": 688,
+            "pagerank": 0.000576
+        },
+        {
+            "node": 533,
+            "pagerank": 0.000578
+        }
+    ]
+}
